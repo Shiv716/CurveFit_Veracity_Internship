@@ -5,3 +5,5 @@ During a recent internship project, a team of Mathematics graduates collaborated
 
 - Python 3.x
 - NumPy
+- matplotlib
+- sklearn
