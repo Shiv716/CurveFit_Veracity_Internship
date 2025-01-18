@@ -7,3 +7,11 @@ During the internship project at Veracity Trust Network, a team of Mathematics g
 - `NumPy`
 - `matplotlib`
 - `sklearn`
+
+## Collaborators
+- [Andrea Hagiu](https://www.linkedin.com/in/andreea-hagiu-54a760211/)
+- [Winfred Gatua](https://www.linkedin.com/in/winfred-gatua-0b2317101/)
+- Muheeb Ahmed
+
+## Project Report
+[Curve-Fit Report](https://shiv716.github.io/Reports/Report_Curve-fit.pdf)
