@@ -3,7 +3,7 @@ During the internship project at Veracity Trust Network, a team of Mathematics g
 
 ## Requirements
 
-- Python 3.x
-- NumPy
-- matplotlib
-- sklearn
+- `Python 3.x`
+- `NumPy`
+- `matplotlib`
+- `sklearn`
