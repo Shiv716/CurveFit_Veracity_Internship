@@ -14,4 +14,4 @@ During the internship project at Veracity Trust Network, a team of Mathematics g
 - Muheeb Ahmed
 
 ## Project Report
-[Curve-Fit Report](https://shiv716.github.io/Reports/Report_Curve-fit.pdf)
+- [Curve-Fit Report](https://shiv716.github.io/Reports/Report_Curve-fit.pdf)
