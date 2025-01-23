@@ -15,3 +15,5 @@ During the internship project at Veracity Trust Network, a team of Mathematics g
 
 ## Project Report
 - [Curve-Fit Report](https://shiv716.github.io/Reports/Report_Curve-fit.pdf)
+
+#### Note: This repository contains only non-confidential portions of a project to showcase the technical contributions of the entire team while adhering to company confidentiality policies.
