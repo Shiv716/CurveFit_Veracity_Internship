@@ -6,7 +6,7 @@ During the internship project at Veracity Trust Network, a team of Mathematics g
 - `Python 3.x`
 - `NumPy`
 - `matplotlib`
-- `sklearn`
+- `scikit-learn`
 
 ## Collaborators
 - [Andreea Hagiu](https://www.linkedin.com/in/andreea-hagiu-54a760211/)
